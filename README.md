@@ -1,2 +1,2 @@
-# studies
+# Studies
 Collection of my personal studies.
